@@ -1,27 +1,36 @@
-# ai-systems-builder-sprint
+# AI Systems Builder Sprint
 
-A structured sprint repository for building AI systems — covering daily practice, weekly goals, Python experiments, projects, notes, resources, and templates.
+> A public 90-day journey to transform from an AI user into an AI Systems Builder.
+
+## Mission
+
+This repository documents my journey toward becoming an AI engineer through deliberate practice, project-based learning, and public accountability.
+
+Rather than collecting certificates, I'm building real AI systems and documenting every step of the process.
+
+## Sprint Timeline
+
+- **Start:** July 14, 2026
+- **Finish:** October 11, 2026
+
+## Primary Objectives
+
+- Master Python through daily practice
+- Complete the Agentic AI Learning Path
+- Complete the Anthropic curriculum
+- Build portfolio-quality AI applications
+- Continue competing in Kaggle
+- Launch the first version of Ask Christopher
+
+## Current Projects
+
+- Ask Christopher
+- Document Chatbot
+- MCP Server
+- Tool Calling Examples
+- Voice Assistant
+- Kaggle Cell Tracking
 
 ## Repository Structure
 
-```
-ai-systems-builder-sprint/
-├── docs/           # Documentation and guides
-├── daily/          # Daily logs and practice exercises
-├── weekly/         # Weekly summaries and reflections
-├── python/         # Python scripts and experiments
-├── projects/       # Full project implementations
-├── notes/          # Miscellaneous notes and learnings
-├── resources/      # Links, references, and external materials
-└── templates/      # Reusable templates for logs, projects, etc.
-```
-
-## Getting Started
-
-1. Clone the repository
-2. Browse the relevant folder for your current focus area
-3. Use the `templates/` directory to bootstrap new entries or projects
-
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+...
