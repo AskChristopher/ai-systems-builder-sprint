@@ -192,3 +192,11 @@ I still struggle with scope control when planning multi-month efforts; I tend to
 Focus on shipping one end-to-end project, tightening Python fundamentals through practical code, and maintaining evidence-first reviews.
 
 ---
+
+## Lock-In Correction (Added 2026-07-19)
+
+- AI Builder GPT design is not yet complete; status should be considered in progress.
+- Week-00 remains a strong setup week (compliance done, repo and structure built), but execution readiness is uneven.
+- Week-01 will run on an 18-hour realistic plan with stricter focus guardrails and reduced scope growth.
+
+---
