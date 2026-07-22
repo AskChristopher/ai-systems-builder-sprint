@@ -1,0 +1,347 @@
+# Day 004
+
+**Date:** July 21, 2026
+
+---
+
+# Overview
+
+Today focused on three major areas:
+
+1. Building the **Ask Christopher** platform.
+2. Learning Python through **Coddy**.
+3. Designing AI-powered instructional and workplace solutions.
+
+A recurring theme emerged throughout the day:
+
+> **Build practical systems that solve real problems using AI and existing tools.**
+
+---
+
+# 🚀 Project 1 — Ask Christopher
+
+## Repository Development
+
+Continued building the repository structure for **Ask Christopher**.
+
+The biggest accomplishment was defining the long-term vision of the project rather than immediately building features.
+
+The product is becoming much clearer.
+
+### Key Realization
+
+Ask Christopher is **not** a chatbot.
+
+It is the AI-powered front door to **ChristopherMathews.com**.
+
+Its purpose is to:
+
+- Represent Christopher's knowledge
+- Teach visitors
+- Showcase projects
+- Demonstrate AI engineering
+- Connect visitors with consulting and training services
+
+Every repository in my portfolio should eventually strengthen Ask Christopher.
+
+---
+
+## Product Vision
+
+Created Version 2 of the Product Vision.
+
+Major ideas include:
+
+- AI representation of Christopher
+- Interactive portfolio
+- Learning platform
+- AI project coach
+- Business assistant
+- Teaching by building
+
+### Guiding Principle
+
+> **Technology Enhances. People Create.**
+
+---
+
+# 🎮 Project 2 — AI Policy Escape Room
+
+Designed a new AI policy training game for work.
+
+## Working Title
+
+**Destination: Responsible AI**
+
+**Tagline**
+
+> *Pack your bags. Protect the data. Question the bot.*
+
+---
+
+## Story
+
+Players are preparing for a company-sponsored vacation.
+
+Their AI travel assistant has made several dangerous policy mistakes.
+
+Players travel through different vacation locations solving AI policy challenges before they can board their flight.
+
+---
+
+## Planned Challenges
+
+### ✈️ Airport Check-In
+
+**Learning Objective**
+
+Use only approved AI tools.
+
+---
+
+### 🏨 Hotel Business Center
+
+**Learning Objective**
+
+Protect confidential information.
+
+Players must sanitize prompts before submitting them to AI.
+
+---
+
+### 🏝 Island Excursion
+
+**Learning Objective**
+
+Verify AI-generated information.
+
+Players identify hallucinations and unsupported claims using company policy.
+
+---
+
+### 🛫 Departure Lounge
+
+**Learning Objective**
+
+Human accountability.
+
+Employees—not AI—remain responsible for the final work product.
+
+---
+
+### 🛬 Final Boarding Gate
+
+Players combine everything they've learned to approve a policy-compliant itinerary.
+
+---
+
+## Important Design Decision
+
+Instead of discouraging AI use...
+
+The game **expects** players to use AI.
+
+However:
+
+- Company policy is the authoritative source.
+- AI responses must be verified.
+- The employee remains responsible for the final answer.
+
+This better reflects how AI is actually used in the workplace.
+
+---
+
+## Additional Puzzle Ideas
+
+Possible riddle:
+
+> I guard big business,
+> lock every door,
+> protecting data
+> from threats galore.
+
+**Answer:** Enterprise Secure
+
+Additional ideas:
+
+- Word scrambles
+- Prompt sanitization
+- Identifying confidential information
+- Choosing approved AI tools
+
+---
+
+# 💼 Project 3 — Microsoft 365 AI Workflow
+
+Worked on a concept for connecting Microsoft 365 tools into a unified project reporting system.
+
+## Goal
+
+Move from manual status reporting to automated executive visibility using tools we already own.
+
+---
+
+## Proposed Workflow
+
+```text
+Microsoft Forms
+        │
+        ▼
+SharePoint List
+        │
+        ▼
+Power Automate
+        │
+        ▼
+Copilot Executive Summary
+        │
+        ▼
+Microsoft Teams
+```
+
+---
+
+## Strategic Positioning
+
+Rather than requesting new software...
+
+Present the project as an **Operational Optimization** initiative using existing Microsoft 365 licenses.
+
+### Benefits
+
+- Zero additional licensing costs
+- Zero procurement delays
+- Zero additional security reviews
+- Standardized reporting
+- Automated executive summaries
+- Better leadership visibility
+
+---
+
+## Leadership Pitch
+
+Instead of selling technology...
+
+Sell:
+
+- Standardized reporting
+- Reduced administrative work
+- Better executive visibility
+- Faster decision-making
+- AI-assisted summaries
+
+Recommended pilot:
+
+- Teams Channel
+- Microsoft Form
+- SharePoint List
+- Power Automate
+- Copilot Executive Summary
+
+---
+
+# 🐍 Python Learning
+
+## Platform
+
+**Coddy**
+
+Decision:
+
+Coddy is now my primary Python curriculum.
+
+Python documentation becomes a reference rather than another course to complete.
+
+---
+
+## Daily Rule
+
+- Maximum of **6 new lessons**
+- Unlimited review and practice
+
+The goal is understanding—not speed.
+
+---
+
+## Today's Topics
+
+- if statements
+- if / else
+- Logical operators
+- `and`
+- `or`
+- `not`
+
+### Key Concept
+
+Programs evaluate conditions and choose what to do next.
+
+Example:
+
+```python
+age = 18
+has_ticket = True
+
+if age >= 18 and has_ticket:
+    print("You may enter.")
+else:
+    print("You may not enter.")
+```
+
+---
+
+# 💡 Biggest Insight
+
+Three completely different projects shared the same philosophy.
+
+Whether building:
+
+- Ask Christopher
+- an AI policy game
+- an executive reporting workflow
+
+…the real work is designing systems that help people make better decisions.
+
+AI is most valuable when it supports human thinking instead of replacing it.
+
+---
+
+# 📦 Artifacts Created
+
+- Ask Christopher Product Vision
+- Ask Christopher repository structure
+- AI Policy vacation game concept
+- Microsoft 365 workflow design
+- Executive reporting proposal
+- Coddy Python progress
+
+---
+
+# 🎯 Tomorrow's Focus
+
+- Continue building the Ask Christopher repository
+- Complete additional GitHub documentation
+- Continue Coddy Python lessons
+- Refine the AI Policy game using the actual company AI policy
+- Build a Microsoft 365 workflow prototype
+- Continue the 90-Day AI Systems Builder Sprint
+
+---
+
+# 📝 Reflection
+
+Today felt different from the previous days.
+
+Instead of thinking about individual projects, I started thinking about an ecosystem.
+
+Ask Christopher is becoming the center of everything I build.
+
+Every GitHub repository, work project, experiment, and learning activity now has a clear purpose: strengthening that vision.
+
+That realization makes the 90-day sprint feel much more focused. I'm no longer collecting projects—I'm building one integrated platform, one artifact at a time.
+
+---
+
+**Hours Invested:** _(Fill in)_  
+**GitHub Commits:** _(Fill in)_  
+**Evidence:** _(Add links to repositories, commits, screenshots, or documents.)_
